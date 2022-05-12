@@ -1,4 +1,5 @@
 .DS_Store
-config/
-dataCache/
-figures/
+Config/
+DataCache/
+Figures/
+Notebooks/.ipynb_checkpoints/
